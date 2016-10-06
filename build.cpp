@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
-int main()
-{
+
+int main() {
+	
 	int t = 100000000, i, j, S;
 	bool *p = new bool[t + 1];
 	
